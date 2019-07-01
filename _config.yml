@@ -109,8 +109,11 @@ author:
   name             : "Hoon"
   avatar           : "/assets/images/profile.jpg"
   bio              : "개발자가 되고싶은 학생"
-  location         : "Seoul && Paju"
+  location         : "Dongjak-gu, Seoul"
   email            : "jihoon522@naver.com"
+  github           : "thisishoon"
+  instagram        : "thisis_jihoon/"
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
